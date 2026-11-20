@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "collabspace": {
+      "type": "stdio",
+      "command": "D:\\Node JS\\node.exe",
+      "args": [
+        "D:\\Web Development\\Slack Clone Sonny Sangha\\collabspace\\mcp-server\\dist\\index.js"
+      ]
+    }
+  }
+}
